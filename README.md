@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Tester69](https://github.com/Majestic-dev/Tester69)
 
-- 🌱 I’m currently learning **Java**
-
 - 📫 How to reach me **saararonmathias1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
